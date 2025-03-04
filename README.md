@@ -17,6 +17,7 @@
   </a>
 </div>
 
+#
 ###  Linguagens e Tecnologias
 
 <img 
@@ -83,13 +84,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<br/>
-<br/>
-<div align="left">
-<img src="https://github.com/user-attachments/assets/46787d57-fa63-44d6-95ff-ce2cffcb45d8" width="400px" />
+<div align="right">
+<img src="https://github.com/user-attachments/assets/46787d57-fa63-44d6-95ff-ce2cffcb45d8" width="450px" />
 </div>
 
-<br/>
+#
+
 
 ###  Estatísticas
 
@@ -101,7 +101,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroLM61&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
 />
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroLM61/PedroLM61/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroLM61/PedroLM61/output/github-contribution-grid-snake-dark.svg">
