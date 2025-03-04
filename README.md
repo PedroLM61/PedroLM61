@@ -83,13 +83,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-          
-          
-          
-          
-          
-
 <br/>
+<br/>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7c84aa1a-5e54-48ca-b147-b26e00d583cf" width="700px" />
+</div>
+
 <br/>
 
 ###  Estatísticas
