@@ -83,10 +83,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<br/>
-<br/>
+
 <div align="center">
-<img src="https://github.com/user-attachments/assets/7c84aa1a-5e54-48ca-b147-b26e00d583cf" width="700px" />
+<img src="https://github.com/user-attachments/assets/7c84aa1a-5e54-48ca-b147-b26e00d583cf" width="300px" />
 </div>
 
 <br/>
@@ -97,7 +96,7 @@
 <img 
     align="left" 
     alt="Github Stats" 
-    width="200px" 
+    width="500px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroLM61&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
 />
