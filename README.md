@@ -18,7 +18,7 @@
 </div>
 
 #
-###  Linguagens e Tecnologias
+###  Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -93,7 +93,7 @@
 #
 
 
-###  Estatísticas
+###  Statistics
 
 
 <img 
