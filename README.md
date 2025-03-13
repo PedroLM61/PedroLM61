@@ -1,4 +1,4 @@
-# IYAGAMI
+# IYAGAMi
 
 ### Social Midia
 
