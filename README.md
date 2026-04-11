@@ -54,8 +54,7 @@
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    <i class="fa-brands fa-java">
-    </i>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"         
 />
 <br>
 <br>
