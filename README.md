@@ -54,7 +54,8 @@
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    src=i class="fa-brands fa-java"
+    <i class="fa-brands fa-java">
+    </i>
 />
 <br>
 <br>
